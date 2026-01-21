@@ -9,11 +9,9 @@ gallery: true
 
 <br>
 
-We have been working together to make sure our digital collections and library site meet the technical standards of the [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/) by [the deadline of April 24th, 2026](https://advocacy.sba.gov/2024/04/25/justice-department-finalizes-rule-requiring-state-and-local-governments-to-make-their-websites-accessible/), and now we need to audit the PDFs attached to our VERSO pages towards this effort. 
+The following is a workshop and open educational resource for using the People's Guide, a public history template that is a developing collaboration between the University of Idaho Library's Center for Digital Inquiry and Learning and the Department of History. The workshop will walk you through the process of determining what type of essay might work best for your assignment, how to assemble all of the materials you will need for the project and how to submit those items and your written material. 
 
-> The following steps will guide you through how to remediate a PDF file for accessibility using Acrobat Pro, as of fall 2025. 
-
-**Full disclosure**: I'm not a fan of Acrobat as an application. You will find some of the semantics and architecture of the application are vague, unintuitive and overly complicated and there is an opportunity to develop in-house tools that will perform these tasks more efficiently. That said, this guide will address the PDF files currently in VERSO before the April 24th timeline. 
+> In addition to developing your historical knowledge, this exercise will give you an introduction to digital scholarship, markdown coding and metadata understanding that will expand your skill set.
 
 <br>
 

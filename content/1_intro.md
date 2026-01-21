@@ -1,6 +1,6 @@
 ---
-title: Guide
-nav: Guide
+title: Introduction
+nav: Introduction
 gallery: true
 ---
 
