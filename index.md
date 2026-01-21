@@ -5,7 +5,7 @@ gallery: true
 ---
 
 
-{% include gallery-figure.html img="banner.png" alt="title card of the presentation Adobe PDF Accessibility Remediation Workshop, guide for University of Idaho Faculty, staff and Students, Andrew Weymouth, Fall 2025 and an image of two circles using a PDF file called Effective Farming Systems." %}
+{% include gallery-figure.html img="banner.png" alt="Title card of the presentation People's Guide Public History Template Workshop with two photographs of salmon cannery workers in Alaska from 1938 posing on stairways and on the docks." %}
 
 <br>
 
