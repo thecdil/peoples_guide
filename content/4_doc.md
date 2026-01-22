@@ -40,6 +40,8 @@ Lat/Long: 47.47502530031415, -115.92450766818784
 
 <br>
 
+This is an abridged version of my colleague Evan Williamson's [Write Markdown Everywhere](https://evanwill.github.io/markdown-everywhere/). Please visit for more in depth material and additional resources.
+
 ### Headings 
 
 <br>
