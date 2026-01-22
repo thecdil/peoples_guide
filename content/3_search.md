@@ -41,7 +41,7 @@ __Where available, copyright search features have already been configured.__
 
 <br>
 
-{% include feature/button.html text="Visit the Search Resources Page Now" link="https://aweymo-ui.github.io/source_cr_free/content/resources/search-resources.html" color="success" size="lg" centered="true" %}
+{% include feature/button.html text="Visit the Search Resources Page Now" link="https://aweymo-ui.github.io/source_cr_free/content/resources/search-resources.html" color="dark" size="lg" centered="true" %}
 
 <br>
 
