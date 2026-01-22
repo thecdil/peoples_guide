@@ -40,7 +40,7 @@ If you are interested in using elements from historic newspapers, please referen
 
 But does any of this matter when you can claim you are using copyright protected material in _fair use_? According to the [U.S. Copyright Office](https://www.copyright.gov/fair-use/), fair use is the "legal doctrine that promotes freedom of expression by permitting the unlicensed use of copyright-protected works in certain circumstances." These special circumstances include the “purpose and character of the use” particularly when using for non-profit and/or educational purposes. 
 
-That said, arguing the case that you are implementing an item in fair use in court expensive and time consuming. In my work, I've never needed to use a copyright protected image under fair use, aside from a handful of times it was requested directly by the company administration, who understood the liabilities in doing so. 
+That said, arguing the case that you are implementing an item in fair use in court is expensive and time consuming. In my work, I've never needed to use a copyright protected image under fair use, aside from a handful of times it was requested directly by the company administration, who understood the liabilities in doing so. 
 
 <br>
 
@@ -50,13 +50,15 @@ That said, arguing the case that you are implementing an item in fair use in cou
 
 Even though [only some](https://creativecommons.org/share-your-work/cclicenses/){:target="_blank" rel="noopener"} Creative Common licenses require attribution, it will be helpful to you as a researcher to give full credits to all of your work. Providing a **title, author, source** (including archival catalog number if applicable) and **license** of the work will ultimately improve your records, dissuade infringement claims and help readers find the media sources independently if they are interested. 
 
+A quick and easy way to record attributions of materials you find on the internet is to create a free account with the citation manager Zotero. To learn how to create an account, build collections and export citations, bibliographies and reports with Zotero, [visit my workshop](https://aweymo-ui.github.io/zotero_intro/). 
+
 <br>
 
 ## Version Copyright
 
 <br>
 
-Lastly, you may encounter images which should be in public domain but are claimed by stock photography giants such as Getty Images or AP News to be under their copyright. This is because these companies have copyright over a **particular print, version or photograph** of the public domain work.
+You may encounter images which should be in public domain but are claimed by stock photography giants such as Getty Images or AP News to be under their copyright. This is because these companies have copyright over a **particular print, version or photograph** of the public domain work.
 
 {% include figure.html img="mona_lisa.jpg" alt="Photograph of the Mona Lisa" caption="Mona Lisa, photograph by Josh Hallett, Paris, July 2009, under CC BY-SA 2.0 license" width="75%" %}
 
