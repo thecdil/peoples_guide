@@ -4,7 +4,7 @@ nav: Search Strategies and Resources
 gallery: true
 ---
 
-{% include feature/nav-menu.html sections="Major Search Engines;Search Resources;Regional Archive Examples;Physical Resources;Keyword and Naming Strategies;Boolean Operators" %}
+{% include feature/nav-menu.html sections="Major Search Engines;Search Resources;Regional Archive Examples;Library Resources;Keyword and Naming Strategies;Boolean Operators" %}
 
 <br>
 
@@ -61,7 +61,7 @@ __Where available, copyright search features have already been configured.__
 
 <br>
 
-## Physical Resources
+## Library Resources
 
 <br>
 
