@@ -18,7 +18,7 @@ gallery: true
 
 > Once you have your copy, rename your file using this pattern= `(last name)_(first name)_doc`. 
 
-Next, adjust your header material at the top of the Doc template. Depending on the course, this may be as simple as entering the name of the essay after the title field and adding you author name, or it may include more detailed metadata like location and theme of your research subject. Check your syllabus to see what metadata fields might be unique to your project, or if they are using a standardized language they want you to assign to your project, such as:
+Next, adjust your header material at the top of the Doc template. Depending on the course, this may be as simple as entering the name of the essay after the title field and adding your author name, or it may include more detailed metadata like location and theme of your research subject. Check your syllabus to see what metadata fields might be unique to your project, or if they are using a standardized language they want you to assign to your project, such as:
 > `gender; sexuality; labor; inequality; spectacle; violence`, as examples you might include for theme. 
 
 {% include alert.html text="**Note**: If needed, a simple way to record the latitude and longitude of your research subject is to visit [Google Maps](https://www.google.com/maps). Selecting any area with the right mouse key will bring up those coordinates at the top of the dropdown menu that appears. Selecting the coordinates will automatically copy the data to your clipboard." color="light" align="left" %}  

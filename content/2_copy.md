@@ -12,7 +12,7 @@ gallery: true
 
 <br>
 
-While our [U of I Library Copyright Guide](https://www.lib.uidaho.edu/copyright/guide.html) and the [Cornell Libguide](https://guides.library.cornell.edu/copyright/publicdomain){:target="_blank" rel="noopener"}  are excellent, thorough resources, my goal here is to provide an abridged version of issues you will most likely to encounter sourcing copyright free media to compliment your research. 
+While our [U of I Library Copyright Guide](https://www.lib.uidaho.edu/copyright/guide.html) and the [Cornell Libguide](https://guides.library.cornell.edu/copyright/publicdomain){:target="_blank" rel="noopener"}  are excellent, thorough resources, my goal here is to provide an abridged version of issues you will likely encounter sourcing copyright free media to compliment your research. 
 
 First off, items can be made available by any one of the [six creative commons licenses](https://creativecommons.org/share-your-work/cclicenses/){:target="_blank" rel="noopener"} . This [License Chooser](https://chooser-beta.creativecommons.org/){:target="_blank" rel="noopener"}  module created by the Creative Commons is helpful in understanding why people choose the different variations you'll encounter during research. 
 
@@ -22,7 +22,7 @@ First off, items can be made available by any one of the [six creative commons l
 
 <br>
 
-Things become quite complicated regarding media that is not in public domain, so let's begin with media that <red>is in the public domain</red>. These include:
+Things become quite complicated regarding media that is not in the public domain, so let's begin with media that <red>is in the public domain</red>. These include:
 * Any item published **before** _{{ site.time | date: "%Y" | minus: 95 }}_ regardless of copyright status (_{{ site.time | date: "%Y" | minus: 100 }}_ for sound recordings)
 * Any item published without a copyright notice between _{{ site.time | date: "%Y" | minus: 95 }}_-_1977_
 * Any item published without a copyright notice and subsequent registration within 5 years of expiration from _1978-1989_
@@ -72,6 +72,6 @@ You can also choose to use [the above photograph](https://commons.wikimedia.org/
 
 <br>
 
-But what if you have an image with no data and you need to determine the copyright status of the object? This is a perfect job for reverse image searching, which has greatly increased in accuracy due to rapid developments in machine learning. While Google, Bing and Yandex all have reverse image searching tools in their browser, I prefer [TinEye](https://tineye.com/){:target="_blank" rel="noopener"} for it's simple interface and ability to sort image results by file size (if I am looking for the highest quality version of an image) and upload date (if I am looking for the original version of an image).
+But what if you have an image with no data and you need to determine the copyright status of the object? This is a perfect job for reverse image searching, which has greatly increased in accuracy due to rapid developments in machine learning. While Google, Bing and Yandex all have reverse image searching tools in their browser, I prefer [TinEye](https://tineye.com/){:target="_blank" rel="noopener"} for its simple interface and ability to sort image results by file size (if I am looking for the highest quality version of an image) and upload date (if I am looking for the original version of an image).
 
 <br>

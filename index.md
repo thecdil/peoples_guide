@@ -15,6 +15,12 @@ The following is a workshop and open educational resource for using the People's
 
 <br>
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
+
 {% include toc.html %}
 
 ------

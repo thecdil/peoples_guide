@@ -6,7 +6,7 @@ gallery: true
 
 <br>
 
-My name is Andrew Weymouth and I am an [assistant professor with the University of Idaho Library](https://www.lib.uidaho.edu/about/people/aweymouth.html) and [the digital initiatives librarian for the Digital Scholarship and Open Strategies department](https://cdil.lib.uidaho.edu/). I focuses on using static web technology to curate the institution’s special collections and partner with faculty and students to create custom fellowship projects. I also develops digital tools and workflows to enhance transcription, tagging, and image processing to make the university’s media, text, and visual resources more discoverable for researchers.
+My name is Andrew Weymouth and I am an [assistant professor with the University of Idaho Library](https://www.lib.uidaho.edu/about/people/aweymouth.html) and [the digital initiatives librarian for the Digital Scholarship and Open Strategies department](https://cdil.lib.uidaho.edu/). I focus on using static web technology to curate the institution’s special collections and partner with faculty and students to create custom fellowship projects. I also develop digital tools and workflows to enhance transcription, tagging, and image processing to make the university’s media, text, and visual resources more discoverable for researchers.
 
 <br>
 
@@ -34,7 +34,7 @@ The main difference is that the digital collection templates are more database-o
 
 <br>
 
-Rather than having a a bunch of individual essays, the advantage to this approach is that you can see all of your research together and create new context by visualizing the ways that your findings overlap. Even though you will all be creating individual essays, you will be able to see these connections by using common fields of metadata and descriptions, which we will explain in the next section.
+Rather than having a bunch of individual essays, the advantage to this approach is that you can see all of your research together and create new context by visualizing the ways that your findings overlap. Even though you will all be creating individual essays, you will be able to see these connections by using common fields of metadata and descriptions, which we will explain in the next section.
 
 While your particular course may refer to the different types of essays that you can submit as multi-modal, narrative or video, these all basically function the same way within the template:
 
