@@ -45,6 +45,12 @@ __Where available, copyright search features have already been configured.__
 
 <br>
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
+
 ## Regional Archive Examples
 
 <br>
@@ -97,5 +103,11 @@ If your topic is **Moscow, Idaho vs. Spokane, Washington Mining Industries**, yo
  The most basic elements are using [AND](https://dp.la/search?q=Moscow+AND+Idaho&type=%22image%22){:target="_blank" rel="noopener"}, [OR](https://dp.la/search?q=Moscow+OR+Idaho&type=%22image%22){:target="_blank" rel="noopener"} and [NOT](https://dp.la/search?q=Moscow+NOT+Idaho&type=%22image%22){:target="_blank" rel="noopener"} between keywords or putting [quotes](https://dp.la/search?q=%22Moscow%2C+Idaho%22&type=%22image%22){:target="_blank" rel="noopener"} around your phrases to use an exact phrase and [parenthesis](https://dp.la/search?q=%28Moscow%2C+Idaho%29+AND+%28flour%29&type=%22image%22){:target="_blank" rel="noopener"} when using multiple operators in the same line. Helpful Google (and Google Scholar) operators include [site:](https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fwww.lib.uidaho.edu+%22flour%22&sca_esv=f7f0ca8bbe6f40fd&rlz=1C1GCEU_enUS1072US1072&sxsrf=ANbL-n5IJYyLdlYxtOy-4Pi5dwhH71jGlQ%3A1769471613368&ei=ff53abuQFvSRm9cP25XL2Ao&ved=0ahUKEwj7wtG3s6qSAxX0yOYEHdvKEqsQ4dUDCBE&uact=5&oq=site%3Ahttps%3A%2F%2Fwww.lib.uidaho.edu+%22flour%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ3NpdGU6aHR0cHM6Ly93d3cubGliLnVpZGFoby5lZHUgImZsb3VyIki5DlCQB1jJDHACeACQAQCYAVWgAd4CqgEBNbgBA8gBAPgBAZgCAKACAJgDAIgGAZIHAKAH4QGyBwC4BwDCBwDIBwCACAA&sclient=gws-wiz-serp){:target="_blank" rel="noopener"} (as well as -site) to include or exclude results from specific sites and [AROUND(#)](https://www.google.com/search?q=Moscow%2C+Idaho+AND+%22flour%22+AROUND+%284%29&sca_esv=f7f0ca8bbe6f40fd&rlz=1C1GCEU_enUS1072US1072&sxsrf=ANbL-n68j3XatBQ4-YRuZJZ9ZT8jRJxc-Q%3A1769471614044&ei=fv53aay9Aqi_0PEPzeH4-AM&ved=0ahUKEwis9Pq3s6qSAxWoHzQIHc0wHj8Q4dUDCBE&uact=5&oq=Moscow%2C+Idaho+AND+%22flour%22+AROUND+%284%29&gs_lp=Egxnd3Mtd2l6LXNlcnAiJE1vc2NvdywgSWRhaG8gQU5EICJmbG91ciIgQVJPVU5EICg0KTIEECMYJzIIEAAYgAQYogQyBRAAGO8FMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIESKgWUO4GWP8ScAF4AZABAJgBdqABvQGqAQMxLjG4AQPIAQD4AQGYAgOgAscBwgIHECMYsAMYJ8ICChAAGLADGNYEGEeYAwCIBgGQBgmSBwMyLjGgB6YKsgcDMS4xuAfEAcIHAzAuM8gHBoAIAA&sclient=gws-wiz-serp){:target="_blank" rel="noopener"} to produce results where your two keywords on either side are within a certain number of words with each other. 
 
 > Learn more about Boolean Operators with [this MIT guide](https://libguides.mit.edu/c.php?g=175963&p=1158594)
+
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>

@@ -75,3 +75,9 @@ You can also choose to use [the above photograph](https://commons.wikimedia.org/
 But what if you have an image with no data and you need to determine the copyright status of the object? This is a perfect job for reverse image searching, which has greatly increased in accuracy due to rapid developments in machine learning. While Google, Bing and Yandex all have reverse image searching tools in their browser, I prefer [TinEye](https://tineye.com/){:target="_blank" rel="noopener"} for its simple interface and ability to sort image results by file size (if I am looking for the highest quality version of an image) and upload date (if I am looking for the original version of an image).
 
 <br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>

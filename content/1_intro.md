@@ -20,6 +20,12 @@ As we will explore today, digital scholarship consists of selecting only certain
 
 <br>
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<br>
+
 ## People's Guide Template
 
 <br>
@@ -48,5 +54,11 @@ While your particular course may refer to the different types of essays that you
 <br>
 
 > In the following section, we will walk through some resources you can use to locate items that will add context to your essay, understanding the copyright status of those items, search strategies and library resources if you are interested in creating a longform audio or video essay. 
+
+<br>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
