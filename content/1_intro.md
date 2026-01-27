@@ -38,8 +38,8 @@ Rather than having a bunch of individual essays, the advantage to this approach 
 
 While your particular course may refer to the different types of essays that you can submit as multi-modal, narrative or video, these all basically function the same way within the template:
 
-- First, you will submit a Google Doc that has all of the text laid out the way you would like it, using basic markdown language. 
-- Second, you will submit a Google Sheet template containing all of the items you want to include in your essay, along with all of their associated metadata. 
+- First, you will submit a Google Doc that has all of the text laid out the way you would like it, indicating where you want to add your items, headers, line breaks, etc.
+- Second, you will submit a Google Sheet template containing all of the items you want to include in your essay, along with their associated metadata. 
 
 <br>
 

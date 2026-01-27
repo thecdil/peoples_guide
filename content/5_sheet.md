@@ -4,7 +4,7 @@ nav: Preparing Your Item Sheet
 gallery: true
 ---
 
-{% include feature/nav-menu.html sections="Metadata Fields;Submitting Forms" %}
+{% include feature/nav-menu.html sections="Metadata Fields;Submitting Links" %}
 
 <br>
 
@@ -79,22 +79,32 @@ Please note that People's Guide projects have a __maximum of 10 items per projec
 
 <br>
 
-## Submitting Forms
+## Submitting Links
 
 <br>
 
-Once you've filled in all of the fields for your items, double check that you have your files titled correctly and download:
-
-- Your sheet as a CSV file
-- And your doc as a MD (markdown) file
-
-Then drop into this folder:
+Once you've filled in all of the fields for your items, double check that you have your files titled correctly, then proceed to this folder:
 
 <br>
 
-{% include feature/button.html text="Add Your Sheet and Doc to the Project Folder" link="https://drive.google.com/drive/folders/1xflZAhqvhQJ1Pho0AfVbJJNHIAxCAuZV?usp=sharing" color="success" size="lg" centered="true" %}
+{% include feature/button.html text="Project Folder" link="https://drive.google.com/drive/folders/1xflZAhqvhQJ1Pho0AfVbJJNHIAxCAuZV?usp=sharing" color="success" size="lg" centered="true" %}
 
 <br>
+
+- Create another Doc inside this folder and name it `(last name)_(first name)_links`
+
+{% include gallery-figure.html img="peoples_11.png" alt="Screen shot of Google Doc demonstrating how to grant access and copy a link to your file." %}
+
+- Next, go into your essay Doc and Sheet, then:
+  - Select `File>Share`
+  - Under `General Access`, choose `Anyone with the link`
+  - Select `Editor`
+  - `Copy link`
+- Then paste the links for both your Doc and Sheet into the link Doc
+
+**In this example**, in the `weymouth_andrew_links` doc I created in the Project folder, I have granted access to and shared links to 
+- `weymouth_andrew_doc` and 
+- `weymouth_andrew_sheet`
 
 **And that should do it**! 
 
