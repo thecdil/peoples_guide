@@ -26,49 +26,61 @@ Please note that People's Guide projects have a __maximum of 10 items per projec
 
 <br>
 
-<table style="width: 100%; border-collapse: collapse; background-color: #ffffff; font-family: sans-serif; margin: 1em 0; table-layout: fixed;">
+Please revise this so text wraps responsively:
+
+<br>
+
+<br>
+<table style="width: 100%; border-collapse: collapse; background-color: #ffffff; font-family: sans-serif; margin: 1em 0;">
   <thead>
     <tr>
-      <th style="width: 25%; padding: 12px; text-align: left; border: 1px solid #ddd;">Metadata</th>
-      <th style="width: 45%; padding: 12px; text-align: left; border: 1px solid #ddd;">Definition</th>
-      <th style="width: 30%; padding: 12px; text-align: left; border: 1px solid #ddd;">Examples</th>
+      <th style="padding: 12px; text-align: left; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word; font-weight: bold;">Metadata</th>
+      <th style="padding: 12px; text-align: left; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word; font-weight: bold;">Definition</th>
+      <th style="padding: 12px; text-align: left; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word; font-weight: bold;">Examples</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>objectid</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">A unique identifier assigned to a digital object for tracking and retrieval</td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>mining_01</code>, <code>mining_02</code>, <code>mining_03</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>objectid</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">A unique identifier assigned to a digital object for tracking and retrieval</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>mining_01</code>, <code>mining_02</code>, <code>mining_03</code></td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>title</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">The name or label given to the digital object. What is the Item called?</td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><em>Spokane Falls from Monroe Street Bridge, 1905</em></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>title</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">The name or label given to the digital object. What is the Item called?</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><em>Spokane Falls from Monroe Street Bridge, 1905</em></td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>description</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">A brief summary of the object’s content, context, or significance</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">"Photograph showing downtown Spokane after the 1889 fire."</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>description</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">A brief summary of the object’s content, context, or significance</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">"Photograph showing downtown Spokane after the 1889 fire."</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>source</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">A clear citation to where the item comes from, i.e. the physical or digital source of the item.</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">"Map of Bovill", Idaho Cities and Towns Collection, University of Idaho Library Digital Collections, https://www.lib.uidaho.edu/digital/cities/items/cities1083.html</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>source</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">A clear citation to where the item comes from, i.e. the physical or digital source of the item.</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">
+        "Map of Bovill", Idaho Cities and Towns Collection, University of Idaho Library Digital Collections, 
+        <span style="word-break: break-all; overflow-wrap: break-word; color: #1a0dab; text-decoration: underline;">https://www.lib.uidaho.edu/digital/cities/items/cities1083.html</span>
+      </td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>originaL_link</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">Direct link (url) where the item can be found</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">https://www.lib.uidaho.edu/digital/cities/items/cities1083.html</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>originaL_link</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">Direct link (url) where the item can be found</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">
+        <span style="word-break: break-all; overflow-wrap: break-word; color: #1a0dab; text-decoration: underline;">https://www.lib.uidaho.edu/digital/cities/items/cities1083.html</span>
+      </td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>link_to_media</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">URL or path to the actual media file (image, audio, video, etc.)</td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>https://objects.lib.uidaho.edu/cities/cities1083.jpg</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>link_to_media</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">URL or path to the actual media file (image, audio, video, etc.)</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">
+        <code style="word-break: break-all; overflow-wrap: break-word;">https://objects.lib.uidaho.edu/cities/cities1083.jpg</code>
+      </td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>image_alt_text</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">Concise, descriptive text conveying visual content for accessibility</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">"Black-and-white photo of wooden buildings along a riverbank."</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;"><code>image_alt_text</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">Concise, descriptive text conveying visual content for accessibility</td>
+      <td style="padding: 12px; border: 1px solid #ddd; word-wrap: break-word; overflow-wrap: break-word;">"Black-and-white photo of wooden buildings along a riverbank."</td>
     </tr>
   </tbody>
 </table>
