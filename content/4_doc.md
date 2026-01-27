@@ -65,7 +65,7 @@ Then, in the location in your text where you would like images or other media to
 When your essay is converted into data for the website project, this convention will pull in the information from your metadata spreadsheet to add the image to the web page. 
 This ensures that each media Item is fully documented as a source and correctly formatted for the web.
 
-For example, using the convention: 
+For example, using the convention:
 
 `[objectid: mining_01]`
 
