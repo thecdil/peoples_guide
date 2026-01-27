@@ -50,17 +50,19 @@ Fill in your essay as you would normally, but indicate where you would like your
 
 # Title
 
-Body 1 with image example
+**Body 1** with *image* example
 
 (objectid:mining_01)
 
+___
+
 ## Subheading (if needed)
 
-Body 2 with PDF example
+**Body 2** with *PDF* example and footnote [^1] (see the bottom of the page)
 
 (objectid:mining_02)
 
-Body 3 with video embed example
+- Body 3 with video embed example
 
 (objectid:mining_03)
 
@@ -70,17 +72,19 @@ Body 3 with video embed example
 
 # Title
 
-Body 1 with image example
+**Body 1** with *image* example
 
 {% include gallery-figure.html img="mining_01.jpg" alt="The caption describes everything that is not in the image, like date, location and people's names, whereas alternate text describes everything that is in the image, so it is accessible. An example for this image might be: A long, industrial wooden building constructed on the side of a hill with shacks in the fore and background." caption="The metadata you provide in your sheets provides caption material. Select the image to see the alternate text along the bottom of the image." width="75%" %}
 
+___
+
 ## Subheading (if needed)
 
-Body 2 with PDF example
+> **Body 2** with *PDF* example and footnote: [^1] (see the bottom of the page)
 
 {% include feature/pdf.html objectid="https://objects.lib.uidaho.edu/bigburn/bigburn02.pdf" %}
 
-Body 3 with video embed example
+* **Body 3** with *video embed* example
  
 {% include feature/video.html objectid="https://www.youtube.com/watch?v=gWKiBKlZV88" %}
 
@@ -135,3 +139,5 @@ Headings aren't just decorative, they are _hierarchical_. This means that the di
 > Start with `heading one` for your title, then go down incrementally for subheadings if needed.
 
 <br>
+
+[^1]:  Footnotes will automatically generate on the bottom of a page in markdown.
