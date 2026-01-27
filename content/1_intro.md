@@ -14,9 +14,41 @@ My name is Andrew Weymouth and I am an [assistant professor with the University 
 
 <br>
 
-To begin, _digital scholarship_ (interchangeable with “digital humanities”) refers to academic work that leverages digital tools, methods, and platforms to conduct research, present findings, and engage with both scholarly and public audiences. It encompasses the use of digital technologies to enhance traditional research practices and introduces new ways of creating, sharing, and analyzing knowledge.
+To begin, _digital scholarship_ (somewhat interchangeable with “digital humanities”) refers to academic work that leverages digital tools, methods, and platforms to conduct research, present findings, and engage with both scholarly and public audiences. It encompasses the use of digital technologies to enhance traditional research practices and introduces new ways of creating, sharing, and analyzing knowledge.
 
-As we will explore today, digital scholarship consists of selecting only certain parts of the data you have assembled and representing that data in different ways in order to draw out new insights and connections, help people understand new dimensions of your findings during the presentation stage and also create accessible material online, so potential collaborators can learn more about your work.
+As we will explore today, digital scholarship consists of selecting only certain parts of the data you have assembled and representing that data in different ways in order to draw out new insights and connections, help people understand new dimensions of your findings during the presentation stage and also create accessible material online, so that others can explore and learn more about your work.
+
+### Examples of Digital Scholarship
+
+- [CDIL](https://cdil.lib.uidaho.edu/)
+    - [Digital Collections](https://www.lib.uidaho.edu/digital/) (digitized or born digital library open access collections)
+    - [CDIL Projects](https://cdil.lib.uidaho.edu/projects/) (scholarship projects with collaborators)
+    - [CollectionBuilder](https://collectionbuilder.github.io/) (open source framework for creating digital collection and exhibit websites, developed at CDIL, powers everything!)
+
+#### Student Digital Scholarship Projects
+
+- [HJCCC](https://www.lib.uidaho.edu/digital/hjccc/) (archeology dissertation typology to browseable website)
+- [Voices of Gay Rodeo](https://www.voicesofgayrodeo.com/) (faculty research, grows to involve students. a resource that makes the research more accessible than just the book)
+- [Human and Ecological Change in Big Creek](https://www.lib.uidaho.edu/digital/big-creek-rephotography/) (rephotography project)
+- [Moscow High School Archaeology](https://cdil.lib.uidaho.edu/ipa-mhs/) (public archaeology project, see StoryMaps)
+- [Fire Lines](https://cdil.lib.uidaho.edu/fire-lines/) (essay on top of a curated research collection)
+- [Keeping Watch](https://cdil.lib.uidaho.edu/keeping-watch/) (multi-modal geospatial essay)
+
+
+### Data and Spreadsheets
+
+- Thinking about (humanities/history) data. 
+- How does structured data becomes websites? 
+- How does metadata impact discovery, useability, and context?
+
+Example guide-like project: 
+
+- [Latah County Historic Places](https://www.lib.uidaho.edu/digital/latahsites/)
+    - [Physical map](https://www.lib.uidaho.edu/digital/latahsites/items/latahsites0093.html)
+    - Current photographs
+    - Historic photographs
+    - Parse into data
+    - Represent as spreadsheet (metadata, structured data)
 
 <br>
 
@@ -44,8 +76,9 @@ Rather than having a bunch of individual essays, the advantage to this approach 
 
 While your particular course may refer to the different types of essays that you can submit as multi-modal, narrative or video, these all basically function the same way within the template:
 
-- First, you will submit a Google Doc that has all of the text laid out the way you would like it, indicating where you want to add your items, headers, line breaks, etc.
-- Second, you will submit a Google Sheet template containing all of the items you want to include in your essay, along with their associated metadata. 
+- First, you will create a Google Doc containing the content of your essay, following a set of basic conventions.
+- Second, if you are using images or other items in your essay, you will create a Google Sheet that lists and describes each of the items you want to include with your essay, along with their associated metadata. 
+- Third, you will submit a Google Form providing metadata about your essay topic and the share links to your Document and Sheet. The metadata represents the standardized fields we will all use to describe our submissions. They allow users to discover, browse, and understand the essays. The form will ask information such as: `title, description, time_period, location, province, latitude, longitude, status, gender, age, occupation, family_status, theme`.
 
 <br>
 

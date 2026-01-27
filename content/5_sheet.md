@@ -42,7 +42,7 @@ Please note that People's Guide projects have a __maximum of 10 items per projec
     </tr>
     <tr>
       <td style="padding: 12px; border: 1px solid #ddd;"><code>title</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">The name or label given to the digital object</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">The name or label given to the digital object. What is the Item called?</td>
       <td style="padding: 12px; border: 1px solid #ddd;"><em>Spokane Falls from Monroe Street Bridge, 1905</em></td>
     </tr>
     <tr>
@@ -51,31 +51,31 @@ Please note that People's Guide projects have a __maximum of 10 items per projec
       <td style="padding: 12px; border: 1px solid #ddd;">"Photograph showing downtown Spokane after the 1889 fire."</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>alt text</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">Concise, descriptive text conveying visual content for accessibility</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">"Black-and-white photo of wooden buildings along a riverbank."</td>
-    </tr>
-    <tr>
       <td style="padding: 12px; border: 1px solid #ddd;"><code>source</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">The original physical or digital source of the item</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">University of Idaho Library Special Collections; <em>The Spokesman-Review</em></td>
+      <td style="padding: 12px; border: 1px solid #ddd;">A clear citation to where the item comes from, i.e. the physical or digital source of the item.</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">"Map of Bovill", Idaho Cities and Towns Collection, University of Idaho Library Digital Collections, https://www.lib.uidaho.edu/digital/cities/items/cities1083.html</td>
     </tr>
     <tr>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>rights</code></td>
-      <td style="padding: 12px; border: 1px solid #ddd;">Information about copyright, usage permissions, or licensing</td>
-      <td style="padding: 12px; border: 1px solid #ddd;">"Public domain"; "CC BY-NC 4.0"; "Used with permission from XYZ Estate"</td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><code>originaL_link</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd;">Direct link (url) where the item can be found</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">https://www.lib.uidaho.edu/digital/cities/items/cities1083.html</td>
     </tr>
     <tr>
       <td style="padding: 12px; border: 1px solid #ddd;"><code>link_to_media</code></td>
       <td style="padding: 12px; border: 1px solid #ddd;">URL or path to the actual media file (image, audio, video, etc.)</td>
-      <td style="padding: 12px; border: 1px solid #ddd;"><code>https://cdil.lib.uidaho.edu/items/spokane_falls_1905.jpg</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd;"><code>https://objects.lib.uidaho.edu/cities/cities1083.jpg</code></td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; border: 1px solid #ddd;"><code>image_alt_text</code></td>
+      <td style="padding: 12px; border: 1px solid #ddd;">Concise, descriptive text conveying visual content for accessibility</td>
+      <td style="padding: 12px; border: 1px solid #ddd;">"Black-and-white photo of wooden buildings along a riverbank."</td>
     </tr>
   </tbody>
 </table>
 
 <br>
 
-{% include alert.html text="**Note**: If your items are things you've scanned or photographs you've taken, upload them to a cloud folder, share them, copy that link and paste into the `link_to_media` folder. Make sure your filenames correspond with the objectids. For example: `mining_01.jpg` and `mining_01`. Source and rights fields still need to be filled in for these items." color="light" align="left" %}  
+{% include alert.html text="**Note**: If your items are things you've scanned or photographs you've taken, upload them to a cloud folder, share them, copy that link and paste into the `link_to_media` folder. Make sure your filenames correspond with the objectids. For example: `mining_01.jpg` and `mining_01`. Source fields still need to be filled in for these items." color="light" align="left" %}  
 
 <br>
 
@@ -83,30 +83,19 @@ Please note that People's Guide projects have a __maximum of 10 items per projec
 
 <br>
 
-Once you've filled in all of the fields for your items, double check that you have your files titled correctly, then proceed to this folder:
+Once you've filled in all of the fields for your items, double check that you have your files titled correctly and all fields filled in.
 
-<br>
+Next, go into your essay Doc and Sheet, and enable sharing:
 
-{% include feature/button.html text="Project Folder" link="https://drive.google.com/drive/folders/1xflZAhqvhQJ1Pho0AfVbJJNHIAxCAuZV?usp=sharing" color="success" size="lg" centered="true" %}
-
-<br>
-
-- Create another Doc inside this folder and name it `(last name)_(first name)_links`
+- Select `File>Share`
+- Under `General Access`, choose `Anyone with the link`
+- Select `Commenter`
+- `Copy link`
 
 {% include gallery-figure.html img="peoples_11.png" alt="Screen shot of Google Doc demonstrating how to grant access and copy a link to your file." %}
 
-- Next, go into your essay Doc and Sheet, then:
-  - Select `File>Share`
-  - Under `General Access`, choose `Anyone with the link`
-  - Select `Editor`
-  - `Copy link`
-- Then paste the links for both your Doc and Sheet into the link Doc
-
-**In this example**, in the `weymouth_andrew_links` doc I created in the Project folder, I have granted access to and shared links to 
-- `weymouth_andrew_doc` and 
-- `weymouth_andrew_sheet`
-
-**And that should do it**! 
+To submit your essay, you will enter your information in a Google Form, including the structured metadata about your essay content and the links to your Doc and Sheet. 
+The link to the Form will be available in Canvas.
 
 We will get in touch if any questions come up with your essays.
 
